@@ -2,7 +2,7 @@
 
 Small VB6 scratch project (`Project1`) that walks folders, merges MSXML 4.0 documents/fragments, and can load scripts into `msscript.ocx` / Scripting Runtime helpers. Distinct from the later VS 2003 Temp repo. Open `Project1.vbp` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 2003-01-20 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
